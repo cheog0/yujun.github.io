@@ -3,7 +3,7 @@
 
 <!-- README.md -->
 
-<h1 align="center">안녕하세요! 👋 유준입니다</h1>
+<h1 align="center">안녕하세요! 👋 설유준입니다</h1>
 <h3 align="center">프론트엔드 개발자를 꿈꾸는 예비 개발자입니다 💻</h3>
 
 ---
