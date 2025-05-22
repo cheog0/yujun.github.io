@@ -18,9 +18,7 @@
 - 오픈소스 기여
 
 ### 📫 연락처
-- 이메일: **yujun@example.com**
-- 블로그: [velog.io/@yujun](https://velog.io/@yujun)
-
+- 이메일: **clf0914@naver.com**
 ---
 
 ### 🛠️ 사용 기술 스택
@@ -36,8 +34,8 @@
 ### 📊 GitHub 활동 통계
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yujun&show_icons=true&theme=tokyonight&locale=kr" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yujun&layout=compact&theme=tokyonight&locale=kr" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cheog0&show_icons=true&theme=tokyonight&locale=kr" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cheog0&layout=compact&theme=tokyonight&locale=kr" width="45%" />
 </p>
 
 ---
